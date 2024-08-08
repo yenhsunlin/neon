@@ -1,6 +1,6 @@
 #     BP2000 Electron Density
 #         astro-ph/001034
-#   The y-axis is Log(n_e/N_A) where N_A is the Avagodro's number and n_e has the unit of cm^-3
+#   The y-axis is ln(n_e/N_A) where N_A is the Avagodro's number and n_e has the unit of cm^-3
 #   The x-axis the R/R_sun
 
      8.19005E-03    2.00852
